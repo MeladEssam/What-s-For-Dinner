@@ -742,7 +742,7 @@ var mealDescription = document.querySelector(".meal-info .meal-description");
 var warningMsg = document.getElementById("warning-message");
 var indgradientsList = document.getElementById("indgradients-list");
 var instructionsContent = document.querySelector(
-  "#instructions .instructions-content"
+  "#instructions .instructions-content",
 );
 var caloriesValue = document.getElementById("calories-value");
 var proteinValue = document.getElementById("protein-value");
